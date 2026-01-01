@@ -1,0 +1,16 @@
+# Conversational AI Bot - Requirements
+# Developer: RSK World (https://rskworld.in)
+# Email: help@rskworld.in
+# Phone: +91 93305 39277
+# Year: 2026
+
+numpy>=1.21.0
+scikit-learn>=1.0.0
+nltk>=3.6
+spacy>=3.4.0
+python-dateutil>=2.8.2
+colorama>=0.4.4
+setuptools>=65.0.0
+flask>=2.3.0
+requests>=2.28.0
+

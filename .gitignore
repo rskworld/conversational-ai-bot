@@ -1,0 +1,53 @@
+# Conversational AI Bot - Git Ignore
+# Developer: RSK World (https://rskworld.in)
+# Email: help@rskworld.in
+# Phone: +91 93305 39277
+# Year: 2026
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Conversation History
+conversation_history.json
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.zip
+*.png
+
